@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 
 ## Overview
 
@@ -10,7 +10,7 @@ While going through the model, we had to ask ourselves some key questions:
 
 **DATA PREPROCESSING**
 
-1. What variable IS considered the target for our model?
+1. What variable is considered the target for our model?
     
     1. IS_SUCCESSFUL
 
